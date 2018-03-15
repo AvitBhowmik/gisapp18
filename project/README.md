@@ -1,7 +1,7 @@
 Project: Ecotoxicological risk assessments from exposure to heavy metals in ground water of Bangladesh
 --------------------------------
 
-* Groups: 6 groups with a maximum of 3 participants each
+* Groups: 6 groups with a maximum of 5 participants each
 * **Deadline: 16 March 2017, 23:59**
 
 
